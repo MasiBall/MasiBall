@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/{MasiBall}/count.svg)
 
 - 📫 How to reach me: Discord - Masi#3007
-- 🔭 I’m currently working on some random FiveM resources
 
 [![MasiBalls's GitHub stats](https://github-readme-stats.vercel.app/api?username=masiball)]
